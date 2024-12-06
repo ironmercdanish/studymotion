@@ -1,0 +1,36 @@
+/* About.css */
+.cover-container {
+    width: 100%;
+    max-width: 100%;
+    overflow: hidden;
+  }
+  
+  .cover-img {
+    width: 100%;
+    height: auto; /* Keep the aspect ratio intact */
+  }
+  
+  /* Mobile (up to 767px) */
+  @media (max-width: 767px) {
+    .cover-img {
+      height: 200px; /* You can adjust this based on your preference */
+      object-fit: cover; /* Ensures the image fills the container */
+    }
+  }
+  
+  /* Tablet (768px to 1024px) */
+  @media (min-width: 768px) and (max-width: 1024px) {
+    .cover-img {
+      height: 300px; /* Adjust accordingly */
+      object-fit: cover;
+    }
+  }
+  
+  /* Desktop (1025px and above) */
+  @media (min-width: 1025px) {
+    .cover-img {
+      height: 400px; /* Adjust for larger screens */
+      object-fit: cover;
+    }
+  }
+  

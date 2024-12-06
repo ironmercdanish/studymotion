@@ -1,0 +1,23 @@
+/* Youtube.css */
+.link {
+    text-decoration: none;
+    font-size: 1.1rem;
+    display: block;
+    padding: 10px;
+    transition: color 0.3s ease-in-out;
+  }
+  
+  .link:hover {
+    color: #ff8c00; /* Change hover color */
+  }
+  
+  @media (max-width: 768px) {
+    .list-group-item {
+      padding: 10px; /* Ensure better spacing on mobile */
+    }
+  
+    .container {
+      padding: 0 10px; /* Avoid edge-to-edge on smaller screens */
+    }
+  }
+  
