@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/studymotion/static/css/main.76e62e7e.css",
+    "main.js": "/studymotion/static/js/main.8c6dd9b6.js",
+    "static/js/453.6e30a6ed.chunk.js": "/studymotion/static/js/453.6e30a6ed.chunk.js",
+    "static/media/error404.png": "/studymotion/static/media/error404.8dc038e777ea3853bf18.png",
+    "static/media/resume-template.png": "/studymotion/static/media/resume-template.6b221810c14411c2db39.png",
+    "static/media/fourthyear1.png": "/studymotion/static/media/fourthyear1.f02cc888ac2306fd2708.png",
+    "static/media/thirdyear1.png": "/studymotion/static/media/thirdyear1.fb4134af7e1e9c60c86a.png",
+    "static/media/login.png": "/studymotion/static/media/login.eb3554b956e1e3bcca48.png",
+    "static/media/secondyear.png": "/studymotion/static/media/secondyear.fe1da65d8a2f0aa315dd.png",
+    "static/media/firstyear.gif": "/studymotion/static/media/firstyear.89dca17781bd680bd375.gif",
+    "static/media/cover.jpg": "/studymotion/static/media/cover.c74bed1a29a48ba7cd48.jpg",
+    "index.html": "/studymotion/index.html",
+    "main.76e62e7e.css.map": "/studymotion/static/css/main.76e62e7e.css.map",
+    "main.8c6dd9b6.js.map": "/studymotion/static/js/main.8c6dd9b6.js.map",
+    "453.6e30a6ed.chunk.js.map": "/studymotion/static/js/453.6e30a6ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76e62e7e.css",
+    "static/js/main.8c6dd9b6.js"
+  ]
+}
